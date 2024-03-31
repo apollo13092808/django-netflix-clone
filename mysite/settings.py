@@ -143,7 +143,7 @@ JAZZMIN_UI_TWEAKS = {
     'theme': 'superhero',
 }
 
-CSRF_TRUSTED_ORIGINS = ['*']
+CSRF_TRUSTED_ORIGINS = ['https://django-netflix-clone-dev-ndgk.2.sg-1.fl0.io']
 CSRF_COOKIE_SECURE = True
 SESSION_COOKIE_SECURE = True
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
