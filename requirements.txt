@@ -1,0 +1,8 @@
+Django
+django-jazzmin
+gunicorn
+Pillow
+psycopg2-binary
+python-dotenv
+requests
+starlette
